@@ -1,6 +1,5 @@
 ![si_header](img/si_header.png)
 
-[![riccardomalatesta.eth](https://img.shields.io/badge/ENS-riccardomalatesta.eth-blue)](https://app.ens.domains/riccardomalatesta.eth)
 [![License](https://img.shields.io/github/license/seeu-inspace/solidityinspector)](LICENSE)
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
 
